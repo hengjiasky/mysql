@@ -1,5 +1,5 @@
 # mysql
-MySql的join（连接）查询 （三表 left join 写法）
+  MySQL的join（连接）查询 （三表 left join 写法）
 ----
 ### 1、内连接：将两个表中存在连结关系的字段符合连接条件的记录形成记录集
 
